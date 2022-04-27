@@ -8,6 +8,8 @@
 
 # Stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis"></img>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis)
+![Stats](https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true"></img>
+# More
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChTUaMMkavu5hxIA7Gd4kfA?style=social)
