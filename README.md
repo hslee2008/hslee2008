@@ -8,8 +8,8 @@
 
 # Stats 📈
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis)
-![Stats](https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis)](https://github.com/HyunseungLee-Travis)
+[![Stats](https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true)](https://github.com/HyunseungLee-Travis)
 
 # More
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChTUaMMkavu5hxIA7Gd4kfA?style=social)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChTUaMMkavu5hxIA7Gd4kfA?style=social)](https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA)
