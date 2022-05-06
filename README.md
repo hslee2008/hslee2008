@@ -12,7 +12,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://www.youtube.com/c/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
