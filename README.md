@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I detest mushrooms**
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=HyunseungLee-Travis&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HyunseungLee-Travis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with me
 <p align="left">
