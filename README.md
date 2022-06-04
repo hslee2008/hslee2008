@@ -16,3 +16,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunseunglee-travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyunseunglee-travis&" alt="hyunseunglee-travis" /></p>
+
+## Hobby
+- 🧊 Rubik's cube (3×3 22s, 2x2 13s, 4x4 50s)
+- 🏓 Ping Pong
+
