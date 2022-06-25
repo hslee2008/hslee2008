@@ -13,7 +13,7 @@
 
 ## What I did
 
-1. I am chosen for The Education of International Olympiad in Informatics, one of 80 students representing South Korea.
+1. I was chosen for The Education of IoI, one of 80 students from 13 to 18 years old. Unfortunately, I did not pass the second round.
 2. I was nominated 2nd place in KOFAC YSC with my project here in GitHub
 
 ## Stats
