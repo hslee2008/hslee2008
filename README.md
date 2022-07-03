@@ -11,6 +11,11 @@
 ## Connect with me
 <a href="https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
 
+## Projects
+
+<a href="https://littlechildwriter.web.app/" target="blank"><img align="center" src="https://littlechildwriter.web.app/favicon.ico" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
+<a href="https://coding-insight.com" target="blank"><img align="center" src="https://coding-insight.com/img/favicon.ico" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
+
 ## What I did
 
 1. I was chosen for The Education of IoI, one of 80 students from 13 to 18 years old. Unfortunately, I did not pass the second round.
