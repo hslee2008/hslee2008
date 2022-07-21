@@ -18,8 +18,11 @@
 
 ## What I did
 
-1. I was chosen for The Education of IoI, one of 80 students from 13 to 18 years old. Unfortunately, I did not pass the second round.
-2. I was nominated 2nd place in KOFAC YSC with my project here in GitHub
+1. I was chosen for The Education of IOI, one of 80 students from 13 to 18 years old.
+2. I was nominated 2nd place in KOFAC YSC with coding-insight
+3. I am leading the project 함께디딤 funded by The Board of Education Gyeongido.
+4. I am leading the 2nd competition of YSC project with littlechildwriter
+5. I am leading the school programming club.
 
 ## Stats
 
