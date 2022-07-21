@@ -1,7 +1,7 @@
-⁹<h4 align="center">Hi 👋, I'm Hyunseung Lee</h4>
+# Hi 👋, I'm Hyunseung Lee
 <h6 align="center">I am a 13-yo living in Pangyo, South Korea.</h6>
 
-- 📝 I regularly write articles on [https://www.coding-insight.com](https://www.coding-insight.com)
+- 📝 I regularly write articles on [https://coding-insight.com](https://www.coding-insight.com)
 - 📫 How to reach me **hyunseunglee2008@gmail.com**
 - ⚡ Fun fact **I detest mushrooms**
 
