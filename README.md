@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://coding-insight.com](https://www.coding-insight.com)
 - 📫 How to reach me **hyunseunglee2008@gmail.com**
-- ⚡ Fun fact **I detest mushrooms**
+- ⚡ Fun fact I wrote a [book](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=HyunseungLee-Travis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
