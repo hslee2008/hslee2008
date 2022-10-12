@@ -20,16 +20,15 @@
 
 ## What I did
 
-1. I was chosen for The Education of IOI, one of 80 students from 13 to 18 years old.
-2. I was nominated 2nd place in KOFAC YSC with coding-insight
-3. I lead the project 함께디딤 funded by The Board of Education Gyeongido.
+1. I was chosen for The Education of IOI through submitting your status, one of 80 students from 13 to 18 years old as the youngest student
+2. I was nominated 2nd place in KOFAC YSC with coding-insight project
+3. I lead the project 함께디딤 funded by The Board of Education Gyeongido
 
 ## What I am doing
 
 1. I am leading the 2nd competition of YSC project with littlechildwriter
-2. I am leading the school programming club.
+2. I am leading the school programming club
 
 ## Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunseunglee-travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
-
