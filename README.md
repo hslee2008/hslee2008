@@ -6,8 +6,12 @@
 - ⚡ Fun fact I wrote a [book](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
 - 📽️ I am working on [littlechildwriter](https://littlechildwriter.web.app)
 
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=HyunseungLee-Travis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Study
+
+- Attended 1 year in ICS, Paris
+- Attended 1 year in Turner Creek Elementary School (+ Graduated)
+- Graduate Naksang Elementary School
+- Currently attending Nagwon Middle School
 
 ## Projects
 <a href="https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
