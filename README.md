@@ -1,10 +1,7 @@
 # Hi 👋, I'm Hyunseung Lee
-<h6 align="center">I am a 13-yo living in Pangyo, South Korea.</h6>
 
-- 📝 I regularly write articles on [https://coding-insight.com](https://www.coding-insight.com)
-- 📫 How to reach me **hyunseunglee2008@gmail.com**
-- ⚡ Fun fact I wrote a [book](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
-- 📽️ I am working on [littlechildwriter](https://littlechildwriter.web.app)
+🧒 am a 13-yo living in Pangyo, South Korea
+📫 hyunseunglee2008@gmail.com
 
 ## Study
 
@@ -20,7 +17,7 @@
 
 ## What I did
 
-1. I was chosen for The Education of IOI through submitting your status, one of 80 students from 13 to 18 years old as the youngest student
+1. I was chosen for The Education of IOI, one of 80 students from 13 to 18 years old as the youngest student
 2. I was nominated 2nd place in KOFAC YSC with coding-insight project
 3. I lead the project 함께디딤 funded by The Board of Education Gyeongido
 
@@ -28,6 +25,17 @@
 
 1. I am leading the 2nd competition of YSC project with littlechildwriter
 2. I am leading the school programming club
+
+## Other links
+
+Here are some links that directly mentions me.
+
+[Forbes](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8)
+/ [Next Avenue](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/)
+/ [Amazon](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
+/ [kmib](https://m.kmib.co.kr/view.asp?arcid=0015066564)
+/ [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
+/ [Facebook - Voice of Calling](https://m.facebook.com/voiceofcalling/?__tn__=C-R)
 
 ## Stats
 
