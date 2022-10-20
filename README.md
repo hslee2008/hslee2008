@@ -1,8 +1,5 @@
 # Hi 👋, I'm Hyunseung Lee
 
-🧒 am a 14-yo living in Pangyo, South Korea<br />
-📫 hyunseunglee2008@gmail.com
-
 ## Study
 
 - Attended 1 year in ICS, Paris
