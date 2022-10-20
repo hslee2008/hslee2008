@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hyunseung Lee
 
-🧒 am a 13-yo living in Pangyo, South Korea
+🧒 am a 13-yo living in Pangyo, South Korea<br />
 📫 hyunseunglee2008@gmail.com
 
 ## Study
@@ -35,7 +35,7 @@ Here are some links that directly mentions me.
 / [Amazon](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
 / [kmib](https://m.kmib.co.kr/view.asp?arcid=0015066564)
 / [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
-/ [Facebook - Voice of Calling](https://m.facebook.com/voiceofcalling/?__tn__=C-R)
+/ [Facebook - Voice of Calling](https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R)
 
 ## Stats
 
