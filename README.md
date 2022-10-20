@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hyunseung Lee
 
-🧒 am a 13-yo living in Pangyo, South Korea<br />
+🧒 am a 14-yo living in Pangyo, South Korea<br />
 📫 hyunseunglee2008@gmail.com
 
 ## Study
