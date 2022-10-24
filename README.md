@@ -1,7 +1,6 @@
 # Hi 👋, I'm Hyunseung Lee
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunseunglee-travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis" alt="hyunseunglee-travis" /></p>
 
 ## Study
 
