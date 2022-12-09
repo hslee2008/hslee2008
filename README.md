@@ -1,6 +1,8 @@
 # Hi 👋, I'm Hyunseung Lee
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunseunglee-travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis&layout=compact)
 
 ## Projects
 <a href="https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
