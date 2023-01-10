@@ -4,11 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis&layout=compact)
 
-## Projects
-<a href="https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
-<a href="https://littlechildwriter.web.app/" target="blank"><img align="center" src="https://littlechildwriter.web.app/favicon.ico" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
-<a href="https://coding-insight.com" target="blank"><img align="center" src="https://coding-insight.com/img/favicon.ico" alt="UChTUaMMkavu5hxIA7Gd4kfA" height="30" width="40" /></a>
-
 ## What I did
 
 1. I was chosen for The Education of IOI, one of 80 students from 13 to 18 years old as the youngest student
@@ -18,6 +13,18 @@
 5. I Suggested changes in E3empower computer app as a developer
 6. I am leading the school programming club
 7. I made Finals Calculators and half of my student in my school use them.
+
+## Projects
+
+https://coding-insight.com
+
+https://littlechildwriter.web.app
+
+https://finalscalcu.web.app
+
+https://historiyear.web.app
+
+https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA
 
 ## Other links
 
