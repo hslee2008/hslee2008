@@ -1,32 +1,30 @@
-# Hi 👋, I'm Hyunseung Lee
+### Hi, I'm Hyunseung Lee
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true&locale=en" alt="hyunseunglee-travis" /></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,nuxt,svelte,react)](https://skillicons.dev)
+
+### Experience 👔
+| What happend                      | Related              | GitHub Repo / Links                                                           | Period                   |
+| --------------------------------- | -------------------- | ----------------------------------------------------------------------------- | ------------------------ |
+| Finals Calculator                 | Nagwon Middle School | [Finals Calculator](https://github.com/HyunseungLee-Travis/FinalsCalcualtor)  | December 2022            |
+| Minister's Award in YSC           | KFASC                | [littlechildwriter](https://github.com/HyunseungLee-Travis/littlechildwriter) | May 2022 - December 2022 |
+| Korean Education of IoI 1st round | IoIKorea             | None                                                                          | June 2021                |
+| KFASC YouTube                     | KFASC                | [YouTube](https://www.youtube.com/@coding-insight2429)                        | May 2021 — December 2021 |
+| 2nd Place in YSC                  | KFASC                | [Coding-Insight](https://github.com/HyunseungLee-Travis/Coding-Insight)       | May 2021 — December 2021 |
+
+KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
+
+### Projects 🐾
+
+- Docusaurus: [Coding-Insight](https://coding-insight.com)
+- Nuxt, Vuetify: [littlechildwriter](https://littlechildwriter.web.app)
+- Svelte: [Finals Calculator - final term score to get at least A](https://finalscalcu.web.app)
+- [YouTube](https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA)
+
+### GitHub Stats ⭐
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis&layout=compact)
 
-## What I did
-
-1. I was chosen for The Education of IOI, one of 80 students from 13 to 18 years old as the youngest student
-2. I was nominated 2nd place in KOFAC YSC with coding-insight project
-3. I receieved Minister's Award, 1st place, for littlechildwriter in YSC
-4. I lead the project 함께디딤 funded by The Board of Education Gyeongido
-5. I Suggested changes in E3empower computer app as a developer
-6. I am leading the school programming club
-7. I made Finals Calculators and half of my student in my school use them.
-
-## Projects
-
-https://coding-insight.com
-
-https://littlechildwriter.web.app
-
-https://finalscalcu.web.app
-
-https://historiyear.web.app
-
-https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA
-
-## Other links
+### Other links
 
 [Forbes](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8)
 / [Next Avenue](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/)
