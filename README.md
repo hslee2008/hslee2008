@@ -23,6 +23,7 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 
 ### GitHub Stats ⭐
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunseungLee-Travis&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseungLee-Travis&layout=compact)
 
 ### Other links
