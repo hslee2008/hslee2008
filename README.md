@@ -12,7 +12,7 @@ If you have anything to say to me, post a [discussion](https://github.com/Hyunse
 | Surfing Open Source               | GitHub               | A lot of repos                                                                | July 2021 — April 2022 |
 | Korean Education of IoI 1st round | IoIKorea             | None                                                                          | June 2021                |
 | KFASC YouTube                     | KFASC                | [YouTube](https://www.youtube.com/@coding-insight2429)                        | May 2021 — December 2021 |
-| 2nd Place in YSC                  | KFASC                | [Coding-Insight](https://github.com/HyunseungLee-Travis/Coding-Insight)       | May 2021 — December 2021 |
+| Chairman's Award                  | KFASC                | [Coding-Insight](https://github.com/HyunseungLee-Travis/Coding-Insight)       | May 2021 — December 2021 |
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
 
@@ -24,6 +24,8 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 
 <a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/github" alt="HyunseungLee-Travis's GitHub stats" width="840px"></a>
 
+<a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/verified-languages?simple=true" alt="HyunseungLee-Travis's language experiences" width="840px"></a>
+  
 ### Other links
 
 [Forbes](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8)
@@ -32,3 +34,10 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 / [kmib](https://m.kmib.co.kr/view.asp?arcid=0015066564)
 / [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
 / [Facebook - Voice of Calling](https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R)
+
+<br /><br /><br />
+
+<div align="center">
+  <h3>Find me in</h3>
+  <a href="https://dev.to/hyunseunglee2008"><img src="https://user-images.githubusercontent.com/78584173/214764627-a987b8ea-5ea2-4def-81de-e153ddaa2304.png" alt="dev.to" /></a>
+</div>
