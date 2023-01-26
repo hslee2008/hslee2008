@@ -1,6 +1,6 @@
 ### Hi, I'm Hyunseung Lee
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react,firebase,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react,firebase,vscode)
 
 If you have anything to say to me, post a [discussion](https://github.com/HyunseungLee-Travis/HyunseungLee-Travis/discussions).
 
@@ -18,7 +18,7 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 
 ### I want to EXPLORE... 🐾
 
-[![My exploration plans](https://skillicons.dev/icons?i=deno,dart,flutter,nextjs)](https://skillicons.dev)
+![My exploration plans](https://skillicons.dev/icons?i=deno,dart,flutter,nextjs)
 
 ### GitHub Stats ⭐
 
@@ -35,9 +35,6 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 / [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
 / [Facebook - Voice of Calling](https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R)
 
-<br /><br /><br />
+### Find me in
 
-<div align="center">
-  <h3>Find me in</h3>
-  <a href="https://dev.to/hyunseunglee2008"><img src="https://user-images.githubusercontent.com/78584173/214764627-a987b8ea-5ea2-4def-81de-e153ddaa2304.png" alt="dev.to" /></a>
-</div>
+[dev.to](https://dev.to/hyunseunglee2008)
