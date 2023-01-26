@@ -1,7 +1,6 @@
 ### Hi, I'm Hyunseung Lee
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react,firebase,vscode)](https://skillicons.dev)
 
 If you have anything to say to me, post a [discussion](https://github.com/HyunseungLee-Travis/HyunseungLee-Travis/discussions).
 
@@ -17,12 +16,9 @@ If you have anything to say to me, post a [discussion](https://github.com/Hyunse
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
 
-### Projects 🐾
+### I want to EXPLORE... 🐾
 
-- Docusaurus: [Coding-Insight](https://coding-insight.com)
-- Nuxt, Vuetify: [littlechildwriter](https://littlechildwriter.web.app)
-- Svelte: [Finals Calculator - final term score to get at least A](https://finalscalcu.web.app)
-- [YouTube](https://www.youtube.com/channel/UChTUaMMkavu5hxIA7Gd4kfA)
+[![My exploration plans](https://skillicons.dev/icons?i=deno,dart,flutter,nextjs)](https://skillicons.dev)
 
 ### GitHub Stats ⭐
 
