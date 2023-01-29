@@ -9,7 +9,8 @@ If you have anything to say to me, post a [discussion](https://github.com/Hyunse
 | --------------------------------- | -------------------- | ----------------------------------------------------------------------------- | ------------------------ |
 | Finals Calculator                 | Nagwon Middle School | [Finals Calculator](https://github.com/HyunseungLee-Travis/FinalsCalcualtor)  | December 2022            |
 | Minister's Award in YSC           | KFASC                | [littlechildwriter](https://github.com/HyunseungLee-Travis/littlechildwriter) | May 2022 — December 2022 |
-| Surfing Open Source               | GitHub               | A lot of repos                                                                | July 2021 — April 2022 |
+| TogetherStep                      | Gyeongi-do BOE       | [TogetherStep](https://github.com/togetherstep)                               | Summer of 2022           |
+| Surfing Open Source               | GitHub               | A lot of repos                                                                | July 2021 — April 2022   |
 | Korean Education of IoI 1st round | IoIKorea             | None                                                                          | June 2021                |
 | KFASC YouTube                     | KFASC                | [YouTube](https://www.youtube.com/@coding-insight2429)                        | May 2021 — December 2021 |
 | Chairman's Award                  | KFASC                | [Coding-Insight](https://github.com/HyunseungLee-Travis/Coding-Insight)       | May 2021 — December 2021 |
