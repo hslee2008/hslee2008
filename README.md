@@ -35,7 +35,3 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 / [kmib](https://m.kmib.co.kr/view.asp?arcid=0015066564)
 / [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
 / [Facebook - Voice of Calling](https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R)
-
-### Find me in
-
-[dev.to](https://dev.to/hyunseunglee2008)
