@@ -2,8 +2,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react,firebase,vscode)
 
-If you have anything to say to me, post a [discussion](https://github.com/HyunseungLee-Travis/HyunseungLee-Travis/discussions).
-
 ### Experience 👔
 | What happend                      | Related              | GitHub Repo / Links                                                           | Period                   |
 | --------------------------------- | -------------------- | ----------------------------------------------------------------------------- | ------------------------ |
