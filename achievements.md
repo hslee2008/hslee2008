@@ -1,0 +1,6 @@
+- Twice in a row 3rd place winner in abacus in Korea (FKA)
+- TEPS 432
+- Chairman's Award and Minister's Award in Korea Foundation for the Advancement of Science and Creativity
+- Korean Education of IoI 1st round
+- Sponsored by Gyeongi-do Board of Education in programming project
+- FinalsCalculator project used in hundreds in my Middle School
