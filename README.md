@@ -1,6 +1,6 @@
-### Hi, I'm Hyunseung Lee
+### 👋 Hi, I'm Hyunseung Lee
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react)
 
 ### Experience 👔
 | What happend                      | Related              | GitHub Repo / Links                                                           | Period                   |
