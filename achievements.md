@@ -1,5 +1,5 @@
 - Twice in a row 3rd place winner in abacus in Korea (FKA)
-- TEPS 432
+- TEPS 432 (Test of English Proficiency developed by Seoul National University)
 - Chairman's Award and Minister's Award in Korea Foundation for the Advancement of Science and Creativity
 - Korean Education of IoI 1st round
 - Sponsored by Gyeongi-do Board of Education in programming project
