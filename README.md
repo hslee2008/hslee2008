@@ -15,9 +15,9 @@
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
 
-### I want to EXPLORE... 🐾
+### Reactions from PEOPLE 👍
 
-![My exploration plans](https://skillicons.dev/icons?i=deno,dart,flutter,nextjs)
+![svg reactions](metrics.plugin.reactions.svg)
 
 ### GitHub Stats ⭐
 
