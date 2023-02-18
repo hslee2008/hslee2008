@@ -23,8 +23,6 @@ KFASC stands for `Korea Foundation for the Advancement of Science and Creativity
 
 <a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/github" alt="HyunseungLee-Travis's GitHub stats" width="840px"></a>
 
-[![HyunseungLee-Travis's GitHub | Topics Over Time](https://stats.quine.sh/HyunseungLee-Travis/topics-over-time?theme=light)](https://quine.sh)
-
 [![HyunseungLee-Travis's GitHub | Languages Over Time](https://stats.quine.sh/HyunseungLee-Travis/languages-over-time?theme=light)](https://quine.sh)
   
 ### Other links
