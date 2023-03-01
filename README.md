@@ -11,10 +11,10 @@
         <td>Period</td>
     </tr>
     <tr>
-        <td>Finals Calculator</td>
+        <td><strong>Finals Calculator</strong></td>
         <td>Nagwon Middle School</td>
         <td><a href="https://github.com/HyunseungLee-Travis/FinalsCalcualtor">Finals Calculator</a></td>
-        <td>December 2022</td>
+        <td>December 2022 - March 2023</td>
     </tr>
     <tr>
         <td><strong>Littlechildwriter</strong> (Minister&#39;s Award)</td>
