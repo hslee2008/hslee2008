@@ -52,6 +52,12 @@
         <td><a href="https://github.com/HyunseungLee-Travis/Coding-Insight">Coding-Insight</a></td>
         <td>May 2021 — December 2021</td>
     </tr>
+    <tr>
+        <td>Learned Programming</td>
+        <td>Voice of Calling</td>
+        <td><a href="https://github.com/HyunseungLee-Travis/Coding-Insight">Coding-Insight</a></td>
+        <td>February 2020</td>
+    </tr>
 </table>
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
