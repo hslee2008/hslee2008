@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td><strong>Littlechildwriter</strong> (Minister&#39;s Award)</td>
-        <td>KFASC</td>
+        <td>MSIT</td>
         <td><a href="https://github.com/HyunseungLee-Travis/littlechildwriter">littlechildwriter</a></td>
         <td>May 2022 — December 2022</td>
     </tr>
@@ -55,6 +55,7 @@
 </table>
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
+MSIT stands for `Ministry of Science and ICT`
 
 ### Reactions from PEOPLE 👍
 
