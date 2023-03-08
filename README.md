@@ -55,6 +55,7 @@
 </table>
 
 KFASC stands for `Korea Foundation for the Advancement of Science and Creativity`
+
 MSIT stands for `Ministry of Science and ICT`
 
 ### Reactions from PEOPLE 👍
