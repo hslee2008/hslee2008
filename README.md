@@ -55,7 +55,7 @@
     <tr>
         <td>Learned Programming</td>
         <td>Voice of Calling</td>
-        <td><a href="https://www.facebook.com/voiceofcalling/">Coding-Insight</a></td>
+        <td><a href="https://www.facebook.com/voiceofcalling/">Voice of Calling</a></td>
         <td>February 2020</td>
     </tr>
 </table>
