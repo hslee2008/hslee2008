@@ -55,7 +55,7 @@
     <tr>
         <td>Learned Programming</td>
         <td>Voice of Calling</td>
-        <td><a href="https://github.com/HyunseungLee-Travis/Coding-Insight">Coding-Insight</a></td>
+        <td><a href="https://www.facebook.com/voiceofcalling/">Coding-Insight</a></td>
         <td>February 2020</td>
     </tr>
 </table>
@@ -71,8 +71,6 @@ MSIT stands for `Ministry of Science and ICT`
 ### GitHub Stats ⭐
 
 <a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/github" alt="HyunseungLee-Travis's GitHub stats" width="840px"></a>
-
-<a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/languages-over-time?theme=light" alt="HyunseungLee-Travis's GitHub Languages" width="840px"></a>
   
 ### Other links
 
