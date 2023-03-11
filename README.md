@@ -68,10 +68,6 @@ MSIT stands for `Ministry of Science and ICT`
 
 ![svg reactions](metrics.plugin.reactions.svg)
 
-### GitHub Stats ⭐
-
-<a href="https://quine.sh/profile/HyunseungLee-Travis"><img src="https://stats.quine.sh/HyunseungLee-Travis/github" alt="HyunseungLee-Travis's GitHub stats" width="840px"></a>
-  
 ### Other links
 
 [Forbes](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8)
