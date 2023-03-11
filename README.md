@@ -66,14 +66,53 @@ MSIT stands for `Ministry of Science and ICT`
 
 ### Reactions from PEOPLE 👍
 
-![svg reactions](metrics.plugin.reactions.svg)
+<img src="./metrics.plugin.reactions.svg" alt="svg reactions" />
 
-### Other links
+### Categorized
 
-[Forbes](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8)
-/ [Next Avenue](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/)
-/ [Amazon](https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2)
-/ [Washington Post](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/)
-/ [Facebook - Voice of Calling](https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R)
+<details>
+    <summary>Links about me</summary>
+    <ul>
+        <li><a href="https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/?sh=75942761f2f8">Forbes</a></li>
+        <li><a href="https://www.amazon.com/Beautiful-Theorems-that-Changed-Math/dp/B08L7H65L2">Amazon</a></li>
+        <li><a href="https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program">Next Avenue</a></li>
+        <li><a href="https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/">Washington Post</a></li>
+        <li><a href="https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R">Facebook</a>
+        <li><a href="https://m.kmib.co.kr/view.asp?arcid=0015066564">국민일보</a></li>
+        <li><a href="https://news.nate.com/view/20201001n13122">네이트 뉴스</a></li>   
+    </ul>
+</details>
 
-[국민일보](https://m.kmib.co.kr/view.asp?arcid=0015066564) / [네이트 뉴스](https://news.nate.com/view/20201001n13122)
+<details>
+    <summary>Apps Awarded / Most Succesful</summary>
+    <ul>
+        <li><a href="https://github.com/HyunseungLee-Travis/littlechildwriter">littlechildwriter</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/FinalsCalculator">Finals Calculator</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/Coding-Insight">Coding-Insight</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Math</summary>
+    <ul>
+        <li><a href="https://github.com/HyunseungLee-Travis/RootFormula">Root Formula</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/Ari">Ari</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Miscellaneous</summary>
+    <ul>
+        <li><a href="https://github.com/HyunseungLee-Travis/custom-brave-filter">Custom Brave Filter</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/my_memes">Memes</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/Chatbot-Maria">Chatbot Maria</a></li>
+        <li><a href="https://github.com/HyunseungLee-Travis/Tori">Tori</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Libraries</summary>
+    <ul>
+        <li><a href="https://github.com/HyunseungLee-Travis/browser-barcodescanner">Browser-BarcodeScanner</a></li>
+    </ul>
+</details>
