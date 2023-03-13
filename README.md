@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Hyunseung Lee (14 Year Old Student Programmer from Korea)
+### 👋 Hi, I'm Hyunseung Lee
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,nuxt,svelte,react)
 
