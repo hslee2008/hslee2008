@@ -17,5 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_reactions: yes
-          plugin_reactions_limit: 300
-          plugin_reactions_details: percentage
+          plugin_reactions_limit: 1000
+          plugin_reactions_limit_discussions: 1000
+          plugin_reactions_limit_discussions_comments: 1000
+          plugin_reactions_details: count
