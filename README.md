@@ -79,7 +79,7 @@ MSIT stands for `Ministry of Science and ICT`
         <li><a href="https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/">Washington Post</a></li>
         <li><a href="https://m.facebook.com/story.php?story_fbid=pfbid0HLS4C9WgnG7bVLwGzVhpvSMCrq4gHxozZVnbQW66pY4W6cmzx3jNVm5nzUwLDWNol&id=101096427922750&m_entstream_source=timeline&__tn__=%2As%2As-R">Facebook</a>
         <li><a href="https://m.kmib.co.kr/view.asp?arcid=0015066564">국민일보</a></li>
-        <li><a href="https://news.nate.com/view/20201001n13122">네이트 뉴스</a></li>   
+        <li><a href="https://news.nate.com/view/20201001n13122">네이트 뉴스</a></li>
     </ul>
 </details>
 
