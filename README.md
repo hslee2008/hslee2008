@@ -5,9 +5,9 @@
 ### Experience 👔
 <table>
     <tr>
-        <td>What happend</td>
-        <td>Related</td>
-        <td>GitHub Repo / Links</td>
+        <td>Activities</td>
+        <td>Organization</td>
+        <td>Repo / Links</td>
         <td>Period</td>
     </tr>
     <tr>
