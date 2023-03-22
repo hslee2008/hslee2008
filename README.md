@@ -1,6 +1,7 @@
 <div align="center">
-    <h3>👋 I'm Hyunseung</h3>
+    <h3>👋 I'm Hyunseung</h3>    
     <img src="http://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+    <p> Do a 👍 in https://github.com/vuetifyjs/vuetify/issues/15282 for me </p>
     <h3>👔 Experience</h3> 
     <table>
         <tr>
@@ -58,5 +59,6 @@
             <td>February 2020</td>
         </tr>
     </table>
-    <img src="./metrics.plugin.reactions.svg" alt="svg reactions" />
+
+
 </div>
