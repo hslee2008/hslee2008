@@ -14,6 +14,6 @@ I want to introduce a bit about myself :
 - 👻 I am thinking of more philosophical and theoretical approach to programming   
   This is because for preparation of upcoming High School Entrance exam
   
-- 😎 I am fluent in both Korean and English
+- 😎 I am fluent in both Korean and English (TEPS 489)
 
 - 📫 Contact me anytime : <a href="mailto:hyunseunglee2008@gmail.com">Send Email 💌</a>
