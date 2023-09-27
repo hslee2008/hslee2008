@@ -9,11 +9,11 @@ I want to introduce a bit about myself :
   This is the biggest app I have created, used by thousands
 
 - 🥊 I won a few coding app creating competitions  
-  YSC 2nd place, YSC 1st place, school's Invention Competition
+  YSC (1st, 2nd), Invention Competition, Hackathon, Essay Competition 1st
 
 - 📚 Thinking of more philosophical & theoretical approach to programming   
   This is because for preparation of upcoming High School Entrance exam
   
-- 😛 I am fluent in both Korean and English (TEPS 489)
+- 😛 I am fluent in both Korean and English
 
 - 📫 Contact me anytime : <a href="mailto:hyunseunglee2008@gmail.com">Send Email 💌</a>
