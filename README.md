@@ -2,13 +2,13 @@
 
 I want to introduce a bit about myself :
 
-- ⌛ Currently, I am a Korean Middle School Student   
-  I am preparing for upcoming exams and High School Entrance exam
+- ⌛ Currently, I am a Korean Middle School Student (NWMS)
+  I am preparing for High School Entrance Exam
 
 - 🔭 I am the creator & maintainer of [FinalsCalcu](https://finalscalcu.web.app)   
-  This is the biggest app I have created, used by thousands across Korea.
+  This is the biggest app I have created, used by thousands of students across Korea.
 
-- 🥊 Prizes: YSC (1st, 2nd), Invention Competition, Hackathon 4th, Essay Competition 1st
+- 🥊 Prizes: `Ministry Award of Science and ICT` x 2, `Chairman's Award of KOFAC`, `Bronze in KCF`
   
 - 😛 I am fluent in both Korean and English
 
