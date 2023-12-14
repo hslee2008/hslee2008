@@ -1,6 +1,9 @@
 - Twice in a row 3rd place winner in abacus in Korea (FKA)
 - TEPS 489 (Test of English Proficiency developed by Seoul National University)
-- Chairman's Award and Minister's Award in Korea Foundation for the Advancement of Science and Creativity
+- Chairman's Award
+- Ministry Award of Science and ICT x 2
 - Korean Education of IoI 1st round
 - Sponsored by Gyeongi-do Board of Education in programming project
 - FinalsCalculator project used in hundreds in my Middle School
+- Bronze in KCF
+- Superintendent of Education Award
