@@ -2,6 +2,8 @@
 
 I want to introduce a bit about myself :
 
+- 💩 I started my journey at 11 years old and now I'm 15 years old.
+
 - ⌛ Currently, I am a Korean Middle School Student (NWMS)
   I am preparing for High School Entrance Exam
 
@@ -10,6 +12,6 @@ I want to introduce a bit about myself :
 
 - 🥊 Prizes: `Ministry Award of Science and ICT` x 2, `Chairman's Award of KOFAC`, `Bronze in KCF`, `Superintendent of Education Award`
   
-- 😛 I am fluent in both Korean and English
+- 😎 I am fluent in both Korean and English
 
 - 📫 Contact me : <a href="mailto:hyunseunglee2008@gmail.com">Send Email</a>
