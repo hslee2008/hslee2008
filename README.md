@@ -10,7 +10,7 @@ I want to introduce a bit about myself :
 - 🔭 I am the creator & maintainer of [FinalsCalcu](https://finalscalcu.web.app)   
   This is the biggest app I have created, used by thousands of students across Korea.
 
-- 🥊 Prizes: `Ministry Award of Science and ICT` x 2, `Chairman's Award of KOFAC`, `Chairman's Award of KIISE`, `Superintendent of Education Award`
+- 🥊 Prizes: `Ministry Award of Science and ICT` x 2, `Chairman's Award of KOFAC`, `Chairman's Award of KIISE`, `Superintendent of Education Award`, `KGFTA President Award`
   
 - 😎 I am fluent in both Korean and English
 
