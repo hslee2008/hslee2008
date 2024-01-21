@@ -9,9 +9,14 @@ I want to introduce a bit about myself :
 
 - 🔭 I am the creator & maintainer of [FinalsCalcu](https://finalscalcu.web.app)   
   This is the biggest app I have created, used by thousands of students across Korea.
-
-- 🥊 Prizes: `Ministry Award of Science and ICT` x 2, `Chairman's Award of KOFAC` x2, `Chairman's Award of KIISE`, `Superintendent of Education Award`, `KFTA President Award`
   
 - 😎 I am fluent in both Korean and English
 
 - 📫 Contact me : <a href="mailto:hyunseunglee2008@gmail.com">Send Email</a>
+
+1. KFASC 2022 Youth Science Exploration Group Convergence Exploration Project (Grand Prize)
+2. MSIT 2023 Exciting SW·AI Education Essay Contest (Grand Prize)
+3. Gyeonggi Provincial Superintendent of Education Commendation (Gyeonggi Future Education)
+4. KFASC 2021 Youth Science Exploration Club Gold Award (KFASC Award)
+5. KFASC 2021 Youth Science Exploration Individual Activities Silver Award (KFASC Award)
+6. Korea Code Fair Hackathon Bronze Prize (KIISE Chairman's Award)
