@@ -14,6 +14,7 @@ I want to introduce a bit about myself :
 
 - 📫 Contact me : <a href="mailto:hyunseunglee2008@gmail.com">Send Email</a>
 
+Big Awards:
 1. KFASC 2022 Youth Science Exploration Group Convergence Exploration Project (Grand Prize)
 2. MSIT 2023 Exciting SW·AI Education Essay Contest (Grand Prize)
 3. Gyeonggi Provincial Superintendent of Education Commendation (Gyeonggi Future Education)
@@ -21,4 +22,7 @@ I want to introduce a bit about myself :
 5. KFASC 2021 Youth Science Exploration Individual Activities Silver Award (KFASC Award)
 6. Korea Code Fair Hackathon Bronze Prize (KIISE Chairman's Award)
 7. Gyeonggi Provincial Teachers’ Association President’s Award (6th best academic grade in school)
+
+School Awards:
 8. Korean School Principal's Award for Special Ability (Coding) Award
+9. Invention Award (2nd place)
