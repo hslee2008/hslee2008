@@ -24,5 +24,5 @@ Big Awards:
 7. Gyeonggi Provincial Teachers’ Association President’s Award (6th best academic grade in school)
 
 School Awards:
-8. Korean School Principal's Award for Special Ability (Coding) Award
-9. Invention Award (2nd place)
+1. Korean School Principal's Award for Special Ability (Coding) Award
+2. Invention Award (2nd place)
