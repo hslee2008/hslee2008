@@ -14,6 +14,8 @@ I want to introduce a bit about myself :
 
 - 📫 Contact me : <a href="mailto:hyunseunglee2008@gmail.com">Send Email</a>
 
+<hr />
+
 🏆 Big Awards:
 1. KFASC 2022 Youth Science Exploration Group Convergence Exploration Project (Grand Prize)
 2. MSIT 2023 Exciting SW·AI Education Essay Contest (Grand Prize)
