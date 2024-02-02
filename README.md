@@ -23,8 +23,8 @@ I want to introduce a bit about myself :
 4. KFASC 2021 Youth Science Exploration Club Gold Award (KFASC Award)
 5. KFASC 2021 Youth Science Exploration Individual Activities Silver Award (KFASC Award)
 6. Korea Code Fair Hackathon Bronze Prize (KIISE Chairman's Award)
-7. Gyeonggi Provincial Teachers’ Association President’s Award (6th best academic grade in school)
 
 🏫 School Awards:
-1. Korean School Principal's Award for Special Ability (Coding) Award
-2. Invention Award (2nd place)
+1. Gyeonggi Provincial Teachers’ Association President’s Award (6th best academic grade in school)
+2. Korean School Principal's Award for Special Ability (Coding) Award
+3. Invention Award (2nd place)
