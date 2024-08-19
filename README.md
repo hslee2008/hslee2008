@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hyunseung+Lee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&repeat=false&width=435&lines=Hyunseung+Lee;%EC%9D%B4%ED%98%84%EC%8A%B9)](https://git.io/typing-svg)
