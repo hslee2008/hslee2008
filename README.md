@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&repeat=false&width=435&lines=Hyunseung+Lee;%EC%9D%B4%ED%98%84%EC%8A%B9">
+  <img src="https://github-readme-stats.vercel.app/api?username=hslee2008&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslee2008">
 </div>
