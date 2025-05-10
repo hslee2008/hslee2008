@@ -66,3 +66,12 @@
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/) | Next Avenue |
 | 2021 | [How technology can help seniors beat loneliness and isolation](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/) | Washington Post |
+
+### 📝 Reports (I wrote)
+| 연도 (Year) | 제목 | title |
+|------|--------------------|------------------|
+| 2024 | AI학습에 보다 적합한 언어의 조건(AI의 언어별 자연어 처리과정 비교) | Conditions for a Language to Be More Suitable for AI Learning (Comparison of Natural Language Processing Across Languages) |
+| 2025 | EEG 기술의 활용 방안과 뇌파 딥러닝 분석 | Applications of EEG Technology and Deep Learning Analysis of Brainwaves |
+| 2025 | 루빅스 큐브의 반복성과 이에 대한 수학적 해석 | Repetitiveness of the Rubik's Cube Cycle and Its Mathematical Interpretation: Group Theory |
+| 2025 | Rhinovirus A형 B형 염기서열 분석 | Sequence Analysis of Rhinovirus Type A and Type B |
+
