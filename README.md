@@ -11,10 +11,21 @@
 </p>
 
 ### 🚀 Experiences
-![output-onlinegiftools](https://github.com/user-attachments/assets/fe85abdf-d337-4840-bf2b-4c70a483c4c6)
+- Error 404 Not Found
+- Error 408 Timeout
 
-### ⚡ Projects
+<details>
 
+<summary>see console for more detail</summary>
+
+```
+[2025] ERROR 408 Timeout: subject is too young to have any experience   
+```
+
+</details>
+
+### ⚡ Pretty Big Projects
+- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app)
 
 ### 🏆 Awards
 | 연도 (Year) | 수상 내용 (Korean) | Award (English) | Scope |
@@ -31,7 +42,9 @@
 | 2021 | 과학 탐구 동아리 은상 (한국과학창의재단 이사장상) | Silver Award, Youth Science Club (Individual) | National |
 
 ### 🎖️ Certifications
-- TEPS(Test for English Proficiency developed by Seoul National University) 489/600
+| Year | Certification (English) | Score |
+|------|--------------------|------------------|
+| 2023 | TEPS(Test for English Proficiency developed by Seoul National University) | 489/600 |
 
 ### 📚 Scholarships
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Scope |
