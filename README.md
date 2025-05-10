@@ -58,3 +58,11 @@
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Content | Institute | Scope |
 |------|--------------------|------------------|--------|--|--|
 | 2025 | 제12기 한성 노벨 영·수재 장학생 | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
+
+### 📰 News (about me)
+| 연도 (Year) | 뉴스 (News) | News Corporate |
+|------|--------------------|------------------|
+| 2020 | [코로나에 갈 곳 없지만…이 아이들이 화상채팅에 접속한 이유](https://www.kmib.co.kr/article/view.asp?arcid=0015066564) | 국민일보 |
+| 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
+| 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/) | Next Avenue |
+| 2021 | [How technology can help seniors beat loneliness and isolation](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/) | Washington Post |
