@@ -2,8 +2,7 @@
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
 
 ### 👾 Interests
-- Full Stack Engineering, Artificial Intelligence
-- Data Science, Computer Science, Mathematics
+Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics · Entrepreneurship
 
 ### 🛠️ Skills
 <p>
