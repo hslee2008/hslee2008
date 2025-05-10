@@ -57,7 +57,7 @@
 ### 📚 Scholarships
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Content | Institute | Scope |
 |------|--------------------|------------------|--------|--|--|
-| 2025 | 제12기 한성 노벨 영·수재 장학생 | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
+| 2025 | [제12기 한성 노벨 영·수재 장학생](https://www.sonjaehan.com/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=21&iBrdContNo=339&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
 
 ### 📰 News (about me)
 | 연도 (Year) | 뉴스 (News) | News Corporate |
