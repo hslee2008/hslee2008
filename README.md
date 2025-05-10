@@ -47,6 +47,6 @@
 | 2023 | TEPS(Test for English Proficiency developed by Seoul National University) | 489/600 |
 
 ### 📚 Scholarships
-| 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Scope |
-|------|--------------------|------------------|--------|
-| 2025 | 제12기 한성 노벨 영·수재 장학생 | Hansung Nobel Scholarship (12th Cohort) | National |
+| 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Content | Scope |
+|------|--------------------|------------------|--------|--|
+| 2025 | 제12기 한성 노벨 영·수재 장학생 | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | National |
