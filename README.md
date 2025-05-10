@@ -55,12 +55,12 @@
 | 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | developed by Seoul National University | 489/600 |
 
 ### 📚 Scholarships
-| 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | Content | Institute | Scope |
+| 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | 내용 (Content) | 학회(Institute) | 선발 범위(Scope) |
 |------|--------------------|------------------|--------|--|--|
 | 2025 | [제12기 한성 노벨 영·수재 장학생](https://www.sonjaehan.com/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=21&iBrdContNo=339&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
 
 ### 📰 News (about me)
-| 연도 (Year) | 뉴스 (News) | News Corporate |
+| 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/) | Next Avenue |
@@ -68,7 +68,7 @@
 | 2020 | [코로나에 갈 곳 없지만…이 아이들이 화상채팅에 접속한 이유](https://www.kmib.co.kr/article/view.asp?arcid=0015066564) | 국민일보 |
 
 ### 📝 Reports (I wrote)
-| 연도 (Year) | 제목 | title |
+| 연도 (Year) | 제목 | Title |
 |------|--------------------|------------------|
 | 2025 | EEG 기술의 활용 방안과 뇌파 딥러닝 분석 | Applications of EEG Technology and Deep Learning Analysis of Brainwaves |
 | 2025 | 루빅스 큐브의 반복성과 이에 대한 수학적 해석 | Repetitiveness of the Rubik's Cube Cycle and Its Mathematical Interpretation: Group Theory |
