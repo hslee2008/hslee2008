@@ -10,19 +10,11 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
   <br/>
 </p>
 
-### 🚀 Experiences
-- Error 404 Not Found
-- Error 408 Timeout
+### 💼 Experience
 
-<details>
-
-<summary>see console for more detail</summary>
-
-```
-[2025] ERROR 408 Timeout: subject is too young to have any experience   
-```
-
-</details>
+***Co-Founder & CTO of
+LinkAll | Jan 2024 – April 2025***
+I co-founded LinkAll, a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children. Since its inception, the community has grown to include members from two countries, directly impacting over 900 students through our educational initiatives. I led the development of the platform that tracks donations and facilitates outreach, helping raise over ₩3,500,000 in support of our mission. Through our work, LinkAll continues to advocate for educational equity and strive to offer equal opportunities to all.
 
 ### ⚡ Pretty Big Projects
 - [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) (17K+ Downloads)
@@ -59,7 +51,7 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
 |------|--------------------|------------------|--------|--|--|
 | 2025 | [제12기 한성 노벨 영·수재 장학생](https://www.sonjaehan.com/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=21&iBrdContNo=339&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
 
-### 📰 News (about me)
+### 📰 News Coverage
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
@@ -75,3 +67,4 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
 | 2025 | Rhinovirus A형 B형 염기서열 분석 | Sequence Analysis of Rhinovirus Type A and Type B |
 | 2024 | AI학습에 보다 적합한 언어의 조건(AI의 언어별 자연어 처리과정 비교) | Conditions for a Language to Be More Suitable for AI Learning (Comparison of Natural Language Processing Across Languages) |
 
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
