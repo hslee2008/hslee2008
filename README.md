@@ -1,4 +1,4 @@
-metrics.plugin.reactions.svg> “You have to forge your own path for it to mean anything.” – Annabeth Chase (The Mark of Athena)
+> “You have to forge your own path for it to mean anything.” – Annabeth Chase (The Mark of Athena)
 
 ### 🎓 Education
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
