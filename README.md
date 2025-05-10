@@ -1,3 +1,6 @@
+> “You have to forge your own path for it to mean anything.”
+– Annabeth Chase (The Mark of Athena)
+
 ### 🎓 Education
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
 
@@ -66,5 +69,3 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 | 2025 | 루빅스 큐브의 반복성과 이에 대한 수학적 해석 | Repetitiveness of the Rubik's Cube Cycle and Its Mathematical Interpretation: Group Theory |
 | 2025 | Rhinovirus A형 B형 염기서열 분석 | Sequence Analysis of Rhinovirus Type A and Type B |
 | 2024 | AI학습에 보다 적합한 언어의 조건(AI의 언어별 자연어 처리과정 비교) | Conditions for a Language to Be More Suitable for AI Learning (Comparison of Natural Language Processing Across Languages) |
-
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
