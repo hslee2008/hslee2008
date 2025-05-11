@@ -15,7 +15,7 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
 ### 💼 Experience
 
 ***Co-Founder & CTO of
-LinkAll | Jan 2024 – April 2025***
+[LinkAll](https://thinkforall-linkall.com) | Jan 2024 – April 2025***
 I co-founded LinkAll, a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children. Since its inception, the community has grown to include members from two countries, directly impacting over 900 students through our educational initiatives. I led the development of the platform that tracks donations and facilitates outreach, helping raise over ₩3,500,000 in support of our mission. Through our work, LinkAll continues to advocate for educational equity and strive to offer equal opportunities to all.
 
 ### ⚡ Pretty Big Projects
