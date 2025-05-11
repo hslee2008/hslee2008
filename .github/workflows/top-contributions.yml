@@ -1,199 +1,96 @@
-name: Update Top Contributed Repos
+name: 🎩 Notable contributions
+category: github
+description: |
+  This plugin displays badges for notable contributions on repositories.
+examples:
+  +indepth analysis: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.indepth.svg
+  contributions in organizations only: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.svg
+index: 20
+supports:
+  - user
+scopes:
+  - public_access
+inputs:
 
-on:
-  schedule:
-    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
-  workflow_dispatch:
+  plugin_notable:
+    description: |
+      Enable notable plugin
+    type: boolean
+    default: no
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+  plugin_notable_filter:
+    description: |
+      Query filter
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      Based on [GitHub search syntax](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax).
+      Supported fields are `stars`, `forks` and `watchers`
 
-      - name: Fetch contributed repositories
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GH_USERNAME: hslee2008
-        run: |
-          echo "Fetching contributed repos for $GH_USERNAME..."
+      If [`plugin_notable_indepth`](/source/plugins/notable/README.md#plugin_notable_indepth) is enabled, `commits`, `commits.user`, `commits.user%` and `maintainer` fields are also supported.
+      Some repositories may not be able to reported advanced stats and in the case the default behaviour will be to bypass filtering
+    type: string
+    default: ""
+    example: stars:>500 forks:>100 maintainer:true commits.user%:>5
 
-          query=$(cat <<EOF
-{
-  user(login: "$GH_USERNAME") {
-    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
-      nodes {
-        nameWithOwner
-        url
-        stargazerCount
-      }
-    }
-  }
-}
-EOF
-          )
+  plugin_notable_skipped:
+    description: |
+      Skipped repositories
+    type: array
+    format: 
+      - newline-separated
+      - comma-separated
+    default: ""
+    example: my-repo-1, my-repo-2, owner/repo-3, ...
+    inherits: repositories_skipped
 
-          # Run the GraphQL query and capture the response
-          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST \
-            -d "{\"query\":\"$(echo "$query" | jq -sR .)\"}" \
-            https://api.github.com/graphql)
+  plugin_notable_from:
+    description: |
+      Repository owner account type filter
 
-          # Echo the full GraphQL response for debugging
-          echo "GraphQL response:"
-          echo "$response"
+      - `all`: no filtering
+      - `organization`: only organization accounts repositories
+      - `user`: only user accounts repositories
+    type: string
+    default: organization
+    values:
+      - all
+      - organization
+      - user
 
-          # Check if the response contains the expected data
-          if [[ "$response" == *"repositoriesContributedTo"* ]]; then
-            echo "Repositories found, processing..."
-            echo "$response" \
-              | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
-              | sort -k3 -nr \
-              | head -n 5 \
-              | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
-          else
-            echo "No repositories found or error in response"
-          fi
+  plugin_notable_repositories:
+    description: |
+      Repository name
 
-      - name: Update README.md with top repos
-        run: |
-          start="<!--START_TOP_REPOS-->"
-          end="<!--END_TOP_REPOS-->"
-          content=$(cat top_repos.md)
+      Repositories hosted by user account will always have their full handle displayed
+    type: boolean
+    default: no
 
-          awk -v content="$content" -v start="$start" -v end="$end" '
-            BEGIN { found=0 }
-            {
-              if ($0 == start) {
-                print $0
-                print content
-                found=1
-                skip=1
-              } else if ($0 == end) {
-                print $0
-                skip=0
-              } else if (!skip) {
-                print $0
-              }
-            }
-            END {
-              if (found == 0) {
-                print start
-                print content
-                print end
-              }
-            }
-          ' README.md > README.tmp && mv README.tmp README.md
+  plugin_notable_indepth:
+    description: |
+      Indepth mode
+    type: boolean
+    default: no
+    extras:
+      - metrics.api.github.overuse
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update top contributed repos"
-            git pull --rebase origin main
-            git push
-          finame: Update Top Contributed Repos
+  plugin_notable_types:
+    description: |
+      Contribution types filter
 
-on:
-  schedule:
-    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
-  workflow_dispatch:
+      Use a combination of below values to include repositories where:
+      - `commit`: a commit on default branch was made
+      - `pull_request`: a pull request was opened
+      - `issue`: an issue was opened
+    type: array
+    format: comma-separated
+    default: commit
+    example: commit, pull_request
+    values:
+      - commit
+      - pull_request
+      - issue
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Fetch contributed repositories
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GH_USERNAME: hslee2008
-        run: |
-          echo "Fetching contributed repos for $GH_USERNAME..."
-
-          query=$(cat <<EOF
-{
-  user(login: "$GH_USERNAME") {
-    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
-      nodes {
-        nameWithOwner
-        url
-        stargazerCount
-      }
-    }
-  }
-}
-EOF
-          )
-
-          # Run the GraphQL query and capture the response
-          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST \
-            -d "{\"query\":\"$(echo "$query" | jq -sR .)\"}" \
-            https://api.github.com/graphql)
-
-          # Echo the full GraphQL response for debugging
-          echo "GraphQL response:"
-          echo "$response"
-
-          # Check if the response contains the expected data
-          if [[ "$response" == *"repositoriesContributedTo"* ]]; then
-            echo "Repositories found, processing..."
-            echo "$response" \
-              | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
-              | sort -k3 -nr \
-              | head -n 5 \
-              | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
-          else
-            echo "No repositories found or error in response"
-          fi
-
-      - name: Update README.md with top repos
-        run: |
-          start="<!--START_TOP_REPOS-->"
-          end="<!--END_TOP_REPOS-->"
-          content=$(cat top_repos.md)
-
-          awk -v content="$content" -v start="$start" -v end="$end" '
-            BEGIN { found=0 }
-            {
-              if ($0 == start) {
-                print $0
-                print content
-                found=1
-                skip=1
-              } else if ($0 == end) {
-                print $0
-                skip=0
-              } else if (!skip) {
-                print $0
-              }
-            }
-            END {
-              if (found == 0) {
-                print start
-                print content
-                print end
-              }
-            }
-          ' README.md > README.tmp && mv README.tmp README.md
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update top contributed repos"
-            git pull --rebase origin main
-            git push
-          fi
+  plugin_notable_self:
+    description: |
+      Include own repositories
+    type: boolean
+    default: no
