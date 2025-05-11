@@ -25,7 +25,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: your-github-username
         run: |
-          python update_repos.py
+          python ./update_repos.py
 
       - name: Commit and push changes
         run: |
