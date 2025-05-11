@@ -12,25 +12,58 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run script
+      - name: Fetch top contributed repositories
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: your-github-username
+          GH_USERNAME: your-github-username  # CHANGE THIS
         run: |
-          python ./update_repos.py
+          echo "Fetching repos contributed to by $GH_USERNAME..."
 
-      - name: Commit and push changes
+          query='{
+            user(login: "'$GH_USERNAME'") {
+              repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
+                nodes {
+                  nameWithOwner
+                  url
+                  stargazerCount
+                }
+              }
+            }
+          }'
+
+          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST -d "{\"query\": \"$query\"}" https://api.github.com/graphql)
+
+          echo "$response" | jq -r '.data.user.repositoriesContributedTo.nodes[] | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
+          | sort -k3 -nr \
+          | head -n 5 \
+          | awk -F'\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+
+      - name: Update README.md
+        run: |
+          start="<!--START_TOP_REPOS-->"
+          end="<!--END_TOP_REPOS-->"
+          content=$(cat top_repos.md)
+
+          awk -v content="$content" -v start="$start" -v end="$end" '
+            BEGIN { found=0 }
+            {
+              if ($0 == start) {
+                print $0
+                print content
+                found=1
+                skip=1
+              } else if ($0 == end) {
+                print $0
+                skip=0
+              } else if (!skip) {
+                print $0
+              }
+            }
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update top contributed repos"
-          git push
+          git diff --cached --quiet || git commit -m "Update top contributed repos" && git push
