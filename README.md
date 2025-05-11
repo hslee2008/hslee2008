@@ -62,13 +62,5 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 | 2021 | [使用演算法配對老少 建立聯繫平台](https://www.singtaousa.com/2021-12-12/%E4%BD%BF%E7%94%A8%E6%BC%94%E7%AE%97%E6%B3%95%E9%85%8D%E5%B0%8D%E8%80%81%E5%B0%91-%E5%BB%BA%E7%AB%8B%E8%81%AF%E7%B9%AB%E5%B9%B3%E5%8F%B0/3812809) | Sing Tao |
 | 2020 | [코로나에 갈 곳 없지만…이 아이들이 화상채팅에 접속한 이유](https://www.kmib.co.kr/article/view.asp?arcid=0015066564) | 국민일보 |
 
-### 📝 Reports (I wrote)
-| 연도 (Year) | 제목 | Title |
-|------|--------------------|------------------|
-| 2025 | EEG 기술의 활용 방안과 뇌파 딥러닝 분석 | Applications of EEG Technology and Deep Learning Analysis of Brainwaves |
-| 2025 | 루빅스 큐브의 반복성과 이에 대한 수학적 해석 | Repetitiveness of the Rubik's Cube Cycle and Its Mathematical Interpretation: Group Theory |
-| 2025 | Rhinovirus A형 B형 염기서열 분석 | Sequence Analysis of Rhinovirus Type A and Type B |
-| 2024 | AI학습에 보다 적합한 언어의 조건(AI의 언어별 자연어 처리과정 비교) | Conditions for a Language to Be More Suitable for AI Learning (Comparison of Natural Language Processing Across Languages) |
-
 ### 📊 Stats
 ![reactions](./metrics.plugin.reactions.svg)
