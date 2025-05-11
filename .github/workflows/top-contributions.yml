@@ -2,43 +2,53 @@ name: Update Top Contributed Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch top contributed repositories
+      - name: Fetch contributed repositories
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GH_USERNAME: hslee2008
         run: |
-          echo "Fetching repos contributed to by $GH_USERNAME..."
+          echo "Fetching contributed repos for $GH_USERNAME..."
 
-          query='{
-            user(login: "'$GH_USERNAME'") {
-              repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
-                nodes {
-                  nameWithOwner
-                  url
-                  stargazerCount
-                }
-              }
-            }
-          }'
+          query=$(cat <<EOF
+{
+  user(login: "$GH_USERNAME") {
+    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
+      nodes {
+        nameWithOwner
+        url
+        stargazerCount
+      }
+    }
+  }
+}
+EOF
+          )
 
-          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST -d "{\"query\": \"$query\"}" https://api.github.com/graphql)
+          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST \
+            -d "{\"query\":\"$(echo "$query" | jq -sR .)\"}" \
+            https://api.github.com/graphql)
 
-          echo "$response" | jq -r '.data.user.repositoriesContributedTo.nodes[] | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
-          | sort -k3 -nr \
-          | head -n 5 \
-          | awk -F'\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+          echo "GraphQL response:"
+          echo "$response" | jq
 
-      - name: Update README.md
+          echo "$response" \
+            | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
+            | sort -k3 -nr \
+            | head -n 5 \
+            | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+
+      - name: Update README.md with top repos
         run: |
           start="<!--START_TOP_REPOS-->"
           end="<!--END_TOP_REPOS-->"
@@ -59,17 +69,24 @@ jobs:
                 print $0
               }
             }
+            END {
+              if (found == 0) {
+                print start
+                print content
+                print end
+              }
+            }
           ' README.md > README.tmp && mv README.tmp README.md
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-if git diff --cached --quiet; then
-  echo "No changes to commit."
-else
-  git commit -m "Update top contributed repos"
-  git pull --rebase origin main  # ← Pull before pushing
-  git push
-fi
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update top contributed repos"
+            git pull --rebase origin main
+            git push
+          fi
