@@ -2,7 +2,7 @@ name: Update Top Contributed Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -35,18 +35,125 @@ jobs:
 EOF
           )
 
+          # Run the GraphQL query and capture the response
           response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST \
             -d "{\"query\":\"$(echo "$query" | jq -sR .)\"}" \
             https://api.github.com/graphql)
 
+          # Echo the full GraphQL response for debugging
           echo "GraphQL response:"
-          echo "$response" | jq
+          echo "$response"
 
-          echo "$response" \
-            | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
-            | sort -k3 -nr \
-            | head -n 5 \
-            | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+          # Check if the response contains the expected data
+          if [[ "$response" == *"repositoriesContributedTo"* ]]; then
+            echo "Repositories found, processing..."
+            echo "$response" \
+              | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
+              | sort -k3 -nr \
+              | head -n 5 \
+              | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+          else
+            echo "No repositories found or error in response"
+          fi
+
+      - name: Update README.md with top repos
+        run: |
+          start="<!--START_TOP_REPOS-->"
+          end="<!--END_TOP_REPOS-->"
+          content=$(cat top_repos.md)
+
+          awk -v content="$content" -v start="$start" -v end="$end" '
+            BEGIN { found=0 }
+            {
+              if ($0 == start) {
+                print $0
+                print content
+                found=1
+                skip=1
+              } else if ($0 == end) {
+                print $0
+                skip=0
+              } else if (!skip) {
+                print $0
+              }
+            }
+            END {
+              if (found == 0) {
+                print start
+                print content
+                print end
+              }
+            }
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update top contributed repos"
+            git pull --rebase origin main
+            git push
+          finame: Update Top Contributed Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch contributed repositories
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_USERNAME: hslee2008
+        run: |
+          echo "Fetching contributed repos for $GH_USERNAME..."
+
+          query=$(cat <<EOF
+{
+  user(login: "$GH_USERNAME") {
+    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, PULL_REQUEST], includeUserRepositories: false) {
+      nodes {
+        nameWithOwner
+        url
+        stargazerCount
+      }
+    }
+  }
+}
+EOF
+          )
+
+          # Run the GraphQL query and capture the response
+          response=$(curl -s -H "Authorization: bearer $GH_TOKEN" -X POST \
+            -d "{\"query\":\"$(echo "$query" | jq -sR .)\"}" \
+            https://api.github.com/graphql)
+
+          # Echo the full GraphQL response for debugging
+          echo "GraphQL response:"
+          echo "$response"
+
+          # Check if the response contains the expected data
+          if [[ "$response" == *"repositoriesContributedTo"* ]]; then
+            echo "Repositories found, processing..."
+            echo "$response" \
+              | jq -r '.data.user.repositoriesContributedTo.nodes[]? | [.nameWithOwner, .url, .stargazerCount] | @tsv' \
+              | sort -k3 -nr \
+              | head -n 5 \
+              | awk -F '\t' '{ printf "- [%s](%s) ⭐ %s\n", $1, $2, $3 }' > top_repos.md
+          else
+            echo "No repositories found or error in response"
+          fi
 
       - name: Update README.md with top repos
         run: |
