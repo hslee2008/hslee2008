@@ -49,11 +49,6 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 |------|--------|------------|------------------|
 | 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | developed by Seoul National University | 489/600 |
 
-## 🧾 Patent
-| 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawyerfirm) | 특허 아이디어(Patent Idea) |
-|------|--------|------------|------------------|
-| 2025 | before filed | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) |
-
 ## 📚 Scholarships
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | 내용 (Content) | 학회(Institute) | 선발 범위(Scope) |
 |------|--------------------|------------------|--------|--|--|
