@@ -19,8 +19,7 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
 I co-founded LinkAll, a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children. I led the development of the platform that tracks donations and facilitates outreach, helping raise over ₩3,500,000 in support of our mission.
 
 ## ⚡ Pretty Big Projects
-- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app)
-  ![downloads](https://playbadges.pavi2410.me/badge/downloads?id=app.web.finalscalcu.twa)
+- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) (+19500 downloads in Google Play Store)
 - [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) (Unofficially used by few Korean lawyers and judges - 800+ Downloads)
 
 ## 🏆 Awards (National: 85%, Provincial: 15%)
