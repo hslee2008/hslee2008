@@ -55,7 +55,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 | 2025 | [제12기 한성 노벨 영·수재 장학생](https://www.sonjaehan.com/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=21&iBrdContNo=339&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
 
 ## 🧾 Patent
-| 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawyerfirm) | 특허 아이디어(Patent Idea) |
+| 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawfirm) | 특허 아이디어(Patent Idea) |
 |------|--------|------------|------------------|
 | 2025 | Patent Pending | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) |
 
