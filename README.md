@@ -20,9 +20,6 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 ## ⚡ Pretty Big Projects
 - [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) (+19500 downloads in Google Play Store)
-
-<iframe src="https://chrome-stats.com/embed/app.web.finalscalcu.twa/trends" width="400" height="400" frameborder="0"></iframe>
-
 - [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) (Unofficially used by few Korean lawyers and judges - 800+ Downloads)
 
 ## 🏆 Awards
