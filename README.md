@@ -22,45 +22,30 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 - [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) (+19500 downloads in Google Play Store)
 - [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) (Unofficially used by few Korean lawyers and judges - 800+ Downloads)
 
-## 🏆 Awards
+## 🏆 Awards  
 
 <details>
-<summary>2024</summary>
+<summary>2025–2028</summary>
 
-| 연도 (Year) | 수상 내용 (Korean) | Award (English) | 분야 (Field) | Institute |
-|-------------|--------------------|-----------------|--------------|-----------|
-| 2024 | 스마틴앱챌린지 장려상 (SK플래닛 대표이사장상) | 3rd Place, National App Development Contest (SK Planet CEO Award) | Software / App Development | SK Planet |
-| 2024 | 전국 창업발명경진대회 우수상 (수원특례시장상) | 3rd Place, National Startup & Invention Contest (Suwon Mayor Award) | Entrepreneurship / Invention | Suwon City |
+| Year | Award (Korean) | Award (English) | Field | Institute |
+|------|----------------|-----------------|-------|-----------|
+| 2025 | 제12기 한성 노벨 영·수재 장학생 | Hansung Nobel Scholarship (12th Cohort) | Scholarship | HS Foundation |
 
 </details>
 
 <details>
-<summary>2023</summary>
+<summary>2021–2024</summary>
 
-| 연도 (Year) | 수상 내용 (Korean) | Award (English) | 분야 (Field) | Institute |
-|-------------|--------------------|-----------------|--------------|-----------|
-| 2023 | 한국코드페어 해커톤 동상 (한국정보과학학회 회장상) | 3rd Place, KCF National Hackathon (KIISE Chairman Award) | Software / AI | KIISE |
-| 2023 | 경기도교육감 표창장 | Award of Commendation, Gyeonggi Superintendent of Education | Education / Leadership | GOE |
-| 2023 | 신나는 SW·AI 교육수기공모전 최우수상 (과학기술정보통신부 장관상) | 1st Place, SW·AI Essay Contest (MSIT Minister Award) | AI / Education | MSIT |
-
-</details>
-
-<details>
-<summary>2022</summary>
-
-| 연도 (Year) | 수상 내용 (Korean) | Award (English) | 분야 (Field) | Institute |
-|-------------|--------------------|-----------------|--------------|-----------|
-| 2022 | 청소년과학탐구반 융합탐구과제 최우수상 (과기정통부 장관상) | 1st Place, National Science Fair (MSIT Minister Award) | Science / Research | MSIT |
-
-</details>
-
-<details>
-<summary>2021</summary>
-
-| 연도 (Year) | 수상 내용 (Korean) | Award (English) | 분야 (Field) | Institute |
-|-------------|--------------------|-----------------|--------------|-----------|
-| 2021 | 과학 탐구 동아리 금상 (한국과학창의재단 이사장상) | Gold Award, Youth Science Club (Team) | Science / Research | KOSAC |
-| 2021 | 과학 탐구 동아리 은상 (한국과학창의재단 이사장상) | Silver Award, Youth Science Club (Individual) | Science / Research | KOSAC |
+| Year | Award (Korean) | Award (English) | Field | Institute |
+|------|----------------|-----------------|-------|-----------|
+| 2024 | 스마틴앱챌린지 장려상 | 3rd Place, National App Development Contest | Software / App Dev | SK Planet |
+| 2024 | 전국 창업발명경진대회 우수상 | 3rd Place, National Startup & Invention Contest | Entrepreneurship | Suwon |
+| 2023 | 한국코드페어 해커톤 동상 | 3rd Place, KCF Hackathon | Software / AI | KIISE |
+| 2023 | 경기도교육감 표창장 | Award of Commendation | Education / Leadership | GOE |
+| 2023 | 신나는 SW·AI 교육수기공모전 최우수상 | 1st Place, SW·AI Essay Contest | AI / Education | MSIT |
+| 2022 | 청소년과학탐구반 융합탐구과제 최우수상 | 1st Place, National Science Fair | Science / Research | MSIT |
+| 2021 | 과학 탐구 동아리 금상 | Gold Award, Youth Science Club (Team) | Science / Research | KOSAC |
+| 2021 | 과학 탐구 동아리 은상 | Silver Award, Youth Science Club (Individual) | Science / Research | KOSAC |
 
 </details>
 
