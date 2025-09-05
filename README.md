@@ -29,7 +29,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 | Year | Award (Korean) | Award (English) | Field | Institute |
 |------|----------------|-----------------|-------|-----------|
-| 2025 | 성남 KAIST AI 경진대회 | Seongname KAIST AI Contest | Artificial Intelligence | xaic, KAIST |
+| 2025 (currently competing) | 성남 KAIST AI 경진대회 | Seongname KAIST AI Contest | Artificial Intelligence | xaic, KAIST |
 
 </details>
 
