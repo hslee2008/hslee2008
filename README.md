@@ -40,6 +40,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 |------|----------------|-----------------|-------|-----------|
 | 2024 | 스마틴앱챌린지 장려상 | 3rd Place, National App Development Contest | Software / App Dev | SK Planet |
 | 2024 | 전국 창업발명경진대회 우수상 | 3rd Place, National Startup & Invention Contest | Entrepreneurship | Suwon |
+| 2024 | 경기도교원단체총연합회장상 (우수 학웝 성취) | Award of Commendation for Academic Excellence | Academics / Education | GTA |
 | 2023 | 한국코드페어 해커톤 동상 | 3rd Place, KCF Hackathon | Software / AI | KIISE |
 | 2023 | 경기도교육감 표창장 | Award of Commendation | Education / Leadership | GOE |
 | 2023 | 신나는 SW·AI 교육수기공모전 최우수상 | 1st Place, SW·AI Essay Contest | AI / Education | MSIT |
@@ -60,6 +61,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 | KOSAC | [Korean Foundation of Science and Creativity](https://www.kosac.re.kr/main) | Korea | Bureau |
 | KIISE | [The Korean Institute of Information Scientists and Engineers](http://m.kiise.or.kr/academyEng/main/getContent.faEng?content_no=1&MENU_ID=010100) | Korea | Bureau |
 | SK Planet | [SK Planet](https://www.skplanet.com/main) | International | Corporation |
+| GTA | Gyeonggi Teachers’ Association (경기도교원단체총연합회) | Gyeonggi Province | Professional Association |
 
 </details>
 
