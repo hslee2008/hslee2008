@@ -49,14 +49,19 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 </details>
 
+<details>
+<summary>Institute Abbreviations</summary>
+
 | Abbreviation | Institute Full Name | Activity Scope | Institute Type |
 |---|---|---|---|
 | MSIT | [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do) | Korea | Ministry |
 | GOE | [Gyeonggi Provincial Office of Education](https://www.goe.go.kr/goe/main.do) | Korea | Provincial Ministry |
-| Suwon City | Suwon City | Suwon City | City Government |
+| Suwon | Suwon City | Suwon City | City Government |
 | KOSAC | [Korean Foundation of Science and Creativity](https://www.kosac.re.kr/main) | Korea | Bureau |
 | KIISE | [The Korean Institute of Information Scientists and Engineers](http://m.kiise.or.kr/academyEng/main/getContent.faEng?content_no=1&MENU_ID=010100) | Korea | Bureau |
 | SK Planet | [SK Planet](https://www.skplanet.com/main) | International | Corporation |
+
+</details>
 
 ## 🎖️ Certifications
 | Year | Certification (English) | Institute | Score |
