@@ -61,7 +61,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 | KOSAC | [Korean Foundation of Science and Creativity](https://www.kosac.re.kr/main) | Korea | Bureau |
 | KIISE | [The Korean Institute of Information Scientists and Engineers](http://m.kiise.or.kr/academyEng/main/getContent.faEng?content_no=1&MENU_ID=010100) | Korea | Bureau |
 | SK Planet | [SK Planet](https://www.skplanet.com/main) | International | Corporation |
-| GTA | Gyeonggi Teachers’ Association (경기도교원단체총연합회) | Gyeonggi Province | Professional Association |
+| GTA | Gyeonggi Teachers’ Association (경기도교원단체총연합회) | Gyeonggi Province | Provincial Ministry |
 
 </details>
 
