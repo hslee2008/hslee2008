@@ -19,8 +19,8 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
 I co-founded LinkAll, a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children. I led the development of the platform that tracks donations and facilitates outreach, helping raise over ₩3,500,000 in support of our mission.
 
 ## ⚡ Pretty Big Projects
-- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) (+19500 downloads in Google Play Store)
-- [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) (Unofficially used by few Korean lawyers and judges - 800+ Downloads)
+- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) Developed and deployed a grade-targeting calculator that allows students to determine the final exam scores required to achieve their desired semester grades. The system is currently patent pending under the title “System and Method for Calculating Final Exam Scores Based on Target Grades.” The application has achieved 19,500+ downloads on Google Play and continues to see sustained active use among Korean high school students.
+- [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) Designed a legal-tech tool to estimate child support expenses under Korean family law guidelines. The tool has been unofficially adopted by legal practitioners, including judges and attorneys, and has reached 800+ downloads to date.
 
 ## 🏆 Awards  
 
