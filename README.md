@@ -69,6 +69,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 ## 🎖️ Certifications
 <details>
 <summary>2021–2024</summary>
+
 | Year | Certification (English) | Institute | Score |
 |------|--------|------------|------------------|
 | 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | Seoul National University | 489/600 |
@@ -78,6 +79,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 ## 📚 Scholarships
 <details>
 <summary>2025–2028</summary>
+
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | 내용 (Content) | 학회(Institute) | 선발 범위(Scope) |
 |------|--------------------|------------------|--------|--|--|
 | 2025 | [제12기 한성 노벨 영·수재 장학생](https://www.sonjaehan.com/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=21&iBrdContNo=339&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1) | Hansung Nobel Scholarship (12th Cohort) | Most likely High School Student to receive the Nobel Prize in the future | [(주)한성손재한장학회](https://www.sonjaehan.com/) | National |
@@ -87,6 +89,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 ## 🧾 Patent
 <details>
 <summary>2025–2028</summary>
+
 | 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawfirm) | 특허 아이디어(Patent Idea) |
 |------|--------|------------|------------------|
 | 2025 | Patent Pending | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) |
@@ -96,6 +99,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 ## 📰 News Coverage
 <details>
 <summary>2020-2021</summary>
+
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
