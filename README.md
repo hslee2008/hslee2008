@@ -69,7 +69,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 ## 🎖️ Certifications
 | Year | Certification (English) | Institute | Score |
 |------|--------|------------|------------------|
-| 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | developed by Seoul National University | 489/600 |
+| 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | Seoul National University | 489/600 |
 
 ## 📚 Scholarships
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | 내용 (Content) | 학회(Institute) | 선발 범위(Scope) |
