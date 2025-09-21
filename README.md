@@ -29,8 +29,8 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 | Year | Award (Korean) | Award (English) | Field | Institute |
 |------|----------------|-----------------|-------|-----------|
-| 2025 (currently competing) | 성남 KAIST AI 경진대회 성남연구센터장상 | Seongnam KAIST AI Competition – Director of Seongnam Research Center Award | Artificial Intelligence | Seongnam Research Center, KAIST |
-| 2025 | 대한민국 인재상 (경기도 지역심사 통과) | Korea Talent Award (Gyeonggi Regional Finalist) | Leadership / Innovation | MOE (Ministry of Education) |
+| 2025 | 성남 KAIST AI 경진대회 성남연구센터장상 | Seongnam KAIST AI Competition – Director of Seongnam Research Center Award | Artificial Intelligence | Seongnam Research Center, KAIST |
+| 2025 (currently competing) | 대한민국 인재상 (경기도 지역심사 통과) | Korea Talent Award (Gyeonggi Regional Finalist) | Leadership / Innovation | MOE (Ministry of Education) |
 
 </details>
 
