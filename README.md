@@ -80,16 +80,6 @@ I am a high school student in South Korea passionate about using programming to 
 
 </details>
 
-## 🎖️ Certifications
-<details>
-<summary>2021–2024 (Middle School)</summary>
-
-| Year | Certification (English) | Institute | Score |
-|------|--------|------------|------------------|
-| 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | Seoul National University | 489/600 |
-
-</details>
-
 ## 📚 Scholarships
 <details>
 <summary>2024–2027 (High School)</summary>
@@ -107,6 +97,16 @@ I am a high school student in South Korea passionate about using programming to 
 | 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawfirm) | 특허 아이디어 (Patent Idea) | 출원번호 (Application Number) |
 |------|--------|------------|------------------|-----|
 | 2025 | Patent Pending | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) | 10-2025-0119070 |
+
+</details>
+
+## 🎖️ Certifications
+<details>
+<summary>2021–2024 (Middle School)</summary>
+
+| Year | Certification (English) | Institute | Score |
+|------|--------|------------|------------------|
+| 2023 | [TEPS](https://www.teps.or.kr/) (Test for English Proficiency) | Seoul National University | 489/600 |
 
 </details>
 
