@@ -1,7 +1,6 @@
-## 🎓 About Me
+## 👦 About Me
 I am a high school student in South Korea passionate about using programming to improve the world around me. I have developed several applications and registered patents based on my ideas, and I have actively participated in competitions to pursue these projects further. Currently, I am studying diligently in high school to broaden my insights and prepare myself for future entrepreneurship, where I aim to bring these applications to life on a larger scale.
 
-## 🎓 Education
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
 
 ## 🛠️ Skills
@@ -127,5 +126,5 @@ I am a high school student in South Korea passionate about using programming to 
 </details>
 
 ## 📊 Stats
+![top contributions](https://github-contributor-stats.vercel.app/api?username=hslee2008&limit=17&theme=dark&combine_all_yearly_contributions=true)
 ![reactions](./metrics.plugin.reactions.svg)
-![](https://github-contributor-stats.vercel.app/api?username=hslee2008&limit=17&theme=dark&combine_all_yearly_contributions=true)
