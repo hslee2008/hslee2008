@@ -3,13 +3,12 @@ I am a high school student in South Korea passionate about using programming to 
 
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
 
-## 🛠️ Skills
+## 🛠️ Skills / 💼 Experience  
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,ts,js,vue,vuetify,nuxtjs,nodejs,express,firebase,git" />
   <br/>
 </p>
-
-## 💼 Experience  
 
 <details>
 <summary><b>Co-Founder & CTO, <a href="https://thinkforall-linkall.com">LinkAll 링크올</a></b> (Jan 2024 – Apr 2025 / Skills: Vue.js · Nuxt.js · Firebase)</summary>
