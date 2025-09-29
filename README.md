@@ -1,10 +1,8 @@
-> “You have to forge your own path for it to mean anything.” – Annabeth Chase (The Mark of Athena)
+## 🎓 About Me
+I am a high school student in South Korea passionate about using programming to improve the world around me. I have developed several applications and registered patents based on my ideas, and I have actively participated in competitions to pursue these projects further. Currently, I am studying diligently in high school to broaden my insights and prepare myself for future entrepreneurship, where I aim to bring these applications to life on a larger scale.
 
 ## 🎓 Education
 - [Pangyo High School](https://pangyo-h.goesn.kr/pangyo-h/main.do)
-
-## 👾 Interests
-Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics · Entrepreneurship
 
 ## 🛠️ Skills
 <p>
@@ -12,35 +10,53 @@ Artificial Intelligence · Full Stack Engineering · Data Science · Mathematics
   <br/>
 </p>
 
-## 💼 Experience
-
-***Co-Founder & CTO of
-[LinkAll](https://thinkforall-linkall.com) | Jan 2024 – April 2025***
-I co-founded LinkAll, a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children. I led the development of the platform that tracks donations and facilitates outreach, helping raise over ₩3,500,000 in support of our mission.
-
-## ⚡ Pretty Big Projects
-- [Finals Calculator 기말고사 계산기](https://finalscalcu.web.app) Developed and deployed a grade-targeting calculator that allows students to determine the final exam scores required to achieve their desired semester grades. The system is currently patent pending under the title “System and Method for Calculating Final Exam Scores Based on Target Grades.” The application has achieved 19,500+ downloads on Google Play and continues to see sustained active use among Korean high school students.
-- [Child Support Expense Calculator 자녀양육비계산기](https://child-support-expanse.web.app) Designed a legal-tech tool to estimate child support expenses under Korean family law guidelines. The tool has been unofficially adopted by legal practitioners, including judges and attorneys, and has reached 800+ downloads to date.
-
-## 🏆 Awards  
+## 💼 Experience  
 
 <details>
-<summary>2025–2028</summary>
+<summary><b>Co-Founder & CTO, <a href="https://thinkforall-linkall.com">LinkAll 링크올</a></b> (Jan 2024 – Apr 2025 / Skills: Vue.js · Nuxt.js · Firebase)</summary>
 
-| Year | Award (Korean) | Award (English) | Field | Institute |
-|------|----------------|-----------------|-------|-----------|
-| 2025 | 성남 KAIST AI 경진대회 성남연구센터장상 | Seongnam KAIST AI Competition – Director of Seongnam Research Center Award | Artificial Intelligence | Seongnam Research Center, KAIST |
-| 2025 (currently competing) | 대한민국 인재상 (경기도 지역심사 통과) | Talent Award of Korea (Gyeonggi Regional Finalist) | Leadership / Innovation | MOE (Ministry of Education) |
+- Co-founded a non-profit organization dedicated to closing the global education gap by providing free, high-quality education to underserved children.  
+- Led development of the donation-tracking and outreach platform, helping raise **₩3,500,000+ in donations**, deliver **170+ hours of volunteer teaching**, and support **1,000+ children** with learning opportunities.  
 
 </details>
 
 <details>
-<summary>2021–2024</summary>
+<summary><b>Developer, <a href="https://finalscalcu.web.app">Finals Calculator 기말고사 계산기</a></b> (2023 – Present / Skills: JavaScript · Svelte · Firebase · Android Deployment)</summary>
+
+- Developed and deployed a patent-pending grade-targeting calculator (“System and Method for Calculating Final Exam Scores Based on Target Grades”).  
+- Enabled students to calculate the exam scores required to reach their desired semester grades.  
+- Achieved **19,500+ downloads** on Google Play with sustained active use among Korean high school students.  
+
+</details>
+
+<details>
+<summary><b>Developer, <a href="https://child-support-expanse.web.app">Child Support Expense Calculator 자녀양육비계산기</a></b> (2023 – Present / Skills: JavaScript · Svelte · Firebase · Android Deployment)</summary>
+
+- Designed a legal-tech tool to estimate child support expenses under Korean family law guidelines.  
+- Unofficially adopted by **judges and attorneys** as a practical calculation resource.  
+- Reached **800+ downloads** to date.  
+
+</details>
+
+## 🏆 Competition Awards  
+
+<details>
+<summary>2024–2027 (High School)</summary>
 
 | Year | Award (Korean) | Award (English) | Field | Institute |
 |------|----------------|-----------------|-------|-----------|
+| 2025 (currently competing) | 대한민국 인재상 (경기도 지역심사 통과) | Talent Award of Korea (Gyeonggi Regional Finalist) | Leadership / Innovation | MOE (Ministry of Education) |
+| 2025 | 성남 KAIST AI 경진대회 성남연구센터장상 | Seongnam KAIST AI Competition – Director of Seongnam Research Center Award | Artificial Intelligence | Seongnam Research Center, KAIST |
 | 2024 | 스마틴앱챌린지 장려상 | 3rd Place, National App Development Contest | Software / App Dev | SK Planet |
 | 2024 | 전국 창업발명경진대회 우수상 | 3rd Place, National Startup & Invention Contest | Entrepreneurship | Suwon |
+
+</details>
+
+<details>
+<summary>2021–2024 (Middle School)</summary>
+
+| Year | Award (Korean) | Award (English) | Field | Institute |
+|------|----------------|-----------------|-------|-----------|
 | 2024 | 경기도교원단체총연합회장상 (우수 학웝 성취) | Award of Commendation for Academic Excellence | Academics / Education | GTA |
 | 2023 | 한국코드페어 해커톤 동상 | 3rd Place, KCF Hackathon | Software / AI | KIISE |
 | 2023 | 경기도교육감 표창장 | Award of Commendation | Education / Leadership | GOE |
@@ -68,7 +84,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 ## 🎖️ Certifications
 <details>
-<summary>2021–2024</summary>
+<summary>2021–2024 (Middle School)</summary>
 
 | Year | Certification (English) | Institute | Score |
 |------|--------|------------|------------------|
@@ -78,7 +94,7 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 ## 📚 Scholarships
 <details>
-<summary>2025–2028</summary>
+<summary>2024–2027 (High School)</summary>
 
 | 연도 (Year) | 장학 내용 (Korean) | Scholarship (English) | 내용 (Content) | 학회(Institute) | 선발 범위(Scope) |
 |------|--------------------|------------------|--------|--|--|
@@ -86,19 +102,19 @@ I co-founded LinkAll, a non-profit organization dedicated to closing the global 
 
 </details>
 
-## 🧾 Patent
+## 🧾 Patents
 <details>
-<summary>2025–2028</summary>
+<summary>2024–2027 (High School)</summary>
 
-| 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawfirm) | 특허 아이디어(Patent Idea) |
-|------|--------|------------|------------------|
-| 2025 | Patent Pending | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) |
+| 연도 (Year) | 상태 (Status) | 관련된 특허 회사 (Associated Patent Lawfirm) | 특허 아이디어 (Patent Idea) | 출원번호 (Application Number) |
+|------|--------|------------|------------------|-----|
+| 2025 | Patent Pending | [특허법인로율](https://www.lawyul.com/kor/main/main.html) | 목표 학점 기반 기말고사 점수 산정 시스템 및 방법 (System and Method for Calculating Final Exam Scores Based on Target Grades) | 10-2025-0119070 |
 
 </details>
 
 ## 📰 News Coverage
 <details>
-<summary>2020-2021</summary>
+<summary>2020-2021 (Elementary School)</summary>
 
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
