@@ -116,10 +116,19 @@ I am a high school student in South Korea passionate about using programming to 
 
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
+| 2026 | [판교고 2학년 이현승, '대한민국 인재상' 수상..."정보격차 해소 노력"](https://www.mt.co.kr/industry/2026/01/06/2026010617022587436) | Money Today (머니투데이) |
+</details>
+
+
+<details>
+<summary>2020-2021 (Elementary School)</summary>
+
+| 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
+|------|--------------------|------------------|
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.forbes.com/sites/nextavenue/2021/01/05/eldera-the-new-global-intergenerational-mentoring-program/) | Forbes |
 | 2021 | [Eldera: The New Global Intergenerational Mentoring Program](https://www.nextavenue.org/eldera-the-new-global-intergenerational-mentoring-program/) | Next Avenue |
 | 2021 | [How technology can help seniors beat loneliness and isolation](https://www.washingtonpost.com/lifestyle/2021/12/03/seniors-loneliness-solutions-technology-virtual-reality/) | Washington Post |
 | 2021 | [使用演算法配對老少 建立聯繫平台](https://www.singtaousa.com/2021-12-12/%E4%BD%BF%E7%94%A8%E6%BC%94%E7%AE%97%E6%B3%95%E9%85%8D%E5%B0%8D%E8%80%81%E5%B0%91-%E5%BB%BA%E7%AB%8B%E8%81%AF%E7%B9%AB%E5%B9%B3%E5%8F%B0/3812809) | Sing Tao |
 | 2020 | [코로나에 갈 곳 없지만…이 아이들이 화상채팅에 접속한 이유](https://www.kmib.co.kr/article/view.asp?arcid=0015066564) | 국민일보 |
 
-</details
+</details>
