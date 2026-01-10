@@ -112,7 +112,7 @@ I am a high school student in South Korea passionate about using programming to 
 
 ## 📰 News Coverage
 <details>
-<summary>2020-2021 (Elementary School)</summary>
+<summary>2024-2027 (High School)</summary>
 
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
