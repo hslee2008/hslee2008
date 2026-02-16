@@ -117,6 +117,7 @@ I am a high school student in South Korea passionate about using programming to 
 | 연도 (Year) | 뉴스 (News) | 뉴스 회사 (News Corporate) |
 |------|--------------------|------------------|
 | 2026 | [판교고 2학년 이현승, '대한민국 인재상' 수상..."정보격차 해소 노력"](https://www.mt.co.kr/industry/2026/01/06/2026010617022587436) | Money Today (머니투데이) |
+| 2026 | [[단독] 2025 ‘대한민국 인재상’ 외대부 서울과 각 3명 ‘고교 최다’.. 민사 경남과 한국영재 대구국제학교 각 2](https://www.veritas-a.com/news/articleView.html?idxno=592886) | Veritas |
 </details>
 
 
