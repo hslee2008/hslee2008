@@ -137,6 +137,11 @@ I am a high school student in South Korea passionate about using programming to 
 
 ## 📚 Featured in Publications
 
-| 연도 (Year) |  (Publication Name) | 출판 회사 (Publisher) |
+<details>
+<summary>Magazine</summary>
+
+| 연도 (Year) | 제목 (Publication Name) | 출판 회사 (Publisher) |
 |------|--------------------|------------------|
 | 2026.03 | [위즈키즈 2026 3월호](https://m.yes24.com/goods/detail/179603493) | 교원에듀(Kyowon Edu) |
+
+</details>
