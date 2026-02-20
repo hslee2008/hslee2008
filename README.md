@@ -140,8 +140,8 @@ I am a high school student in South Korea passionate about using programming to 
 <details>
 <summary>Magazine</summary>
 
-| 연도 (Year) | 제목 (Publication Name) | 출판 회사 (Publisher) |
-|------|--------------------|------------------|
-| 2026.03 | [위즈키즈 2026 3월호](https://m.yes24.com/goods/detail/179603493) | 교원에듀(Kyowon Edu) |
+| 연도 (Year) | 이미지 (Image) | 제목 (Publication Name) | 출판 회사 (Publisher) |
+|------|----|----------------|------------------|
+| 2026.03 | ![키즈](https://product.kyobobook.co.kr/detail/S000219301209) | [위즈키즈 2026 3월호](https://m.yes24.com/goods/detail/179603493) | 교원에듀(Kyowon Edu) |
 
 </details>
