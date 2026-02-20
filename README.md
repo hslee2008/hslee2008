@@ -110,7 +110,7 @@ I am a high school student in South Korea passionate about using programming to 
 
 </details>
 
-## 📰 News Coverage
+## 📰 Media & Press
 <details>
 <summary>2024-2027 (High School)</summary>
 
