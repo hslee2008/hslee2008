@@ -134,3 +134,9 @@ I am a high school student in South Korea passionate about using programming to 
 | 2020 | [코로나에 갈 곳 없지만…이 아이들이 화상채팅에 접속한 이유](https://www.kmib.co.kr/article/view.asp?arcid=0015066564) | 국민일보 |
 
 </details>
+
+## 📚 Featured in Publications
+
+| 연도 (Year) |  (Publication Name) | 출판 회사 (Publisher) |
+|------|--------------------|------------------|
+| 2026.03 | [위즈키즈 2026 3월호](https://m.yes24.com/goods/detail/179603493) | 교원에듀(Kyowon Edu) |
