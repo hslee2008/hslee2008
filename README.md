@@ -87,7 +87,7 @@ I am a high school student in South Korea passionate about using programming to 
 
 | Year | Image | Recognition | Organization | Impact |
 |------|-------|------------|-------------|--------|
-| 2025 | ![UNICEF Letter](YOUR_IMAGE_LINK_HERE) | Letter of Appreciation | UNICEF Korea | Recognized for contributing ₩2,000,000 to support children affected by the Myanmar earthquake through LinkAll |
+| 2025 | ![1000005261](https://github.com/user-attachments/assets/a776dd81-64eb-435e-99d5-5f0224cf58a7) | Letter of Appreciation | UNICEF Korea | Recognized for contributing ₩2,000,000 to support children affected by the Myanmar earthquake through LinkAll |
 
 </details>
 
