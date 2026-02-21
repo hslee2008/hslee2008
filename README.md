@@ -80,6 +80,17 @@ I am a high school student in South Korea passionate about using programming to 
 
 </details>
 
+## 🌍 Social Impact & Recognition
+
+<details>
+<summary>2024–2027 (High School)</summary>
+
+| Year | Image | Recognition | Organization | Impact |
+|------|-------|------------|-------------|--------|
+| 2025 | ![UNICEF Letter](YOUR_IMAGE_LINK_HERE) | Letter of Appreciation | UNICEF Korea | Recognized for contributing ₩2,000,000 to support children affected by the Myanmar earthquake through LinkAll |
+
+</details>
+
 ## 📚 Scholarships
 <details>
 <summary>2024–2027 (High School)</summary>
