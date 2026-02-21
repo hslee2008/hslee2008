@@ -138,7 +138,7 @@ I am a high school student in South Korea passionate about using programming to 
 ## 📚 Featured in Publications
 
 <details>
-<summary>Magazine</summary>
+<summary>Magazine (High School)</summary>
 
 | 연도 (Year) | 이미지 (Image) | 제목 (Publication Name) | 출판 회사 (Publisher) |
 |------|----|----------------|------------------|
