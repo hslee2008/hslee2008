@@ -156,3 +156,12 @@ I am a high school student in South Korea passionate about using programming to 
 | 2026.03 | ![키즈](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/3904000589718.jpg) | [위즈키즈 2026 3월호](https://m.yes24.com/goods/detail/179603493) | 교원에듀(Kyowon Edu) |
 
 </details>
+
+<details>
+<summary>추천사 Books Recommendation by Me (High School)</summary>
+
+| 연도 (Year) | 이미지 (Image) | 제목 (Publication Name) | 출판 회사 (Publisher) |
+|------|----|----------------|------------------|
+| 2026.03 | ![이미지](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791124205433.jpg) | [해달리와 함께하는 신나는 AI 여행](https://product.kyobobook.co.kr/detail/S000219544257) | JPUB 제이퍼브 |
+
+</details>
